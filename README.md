@@ -1,1 +1,1 @@
-# Glitz Shoe Shop
+# Glitz Shop
