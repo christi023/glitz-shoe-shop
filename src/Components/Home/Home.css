@@ -1,0 +1,16 @@
+.home {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 650px;
+  padding-top: 80px;
+}
