@@ -1,5 +1,5 @@
 import Carrousel from '../Carrousel/Carrousel';
-import Banner from '../../assets/banner1.jpeg';
+import Banner from '../../assets/banner.png';
 // style
 import './Home.css';
 
